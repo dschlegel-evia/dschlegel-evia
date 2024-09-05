@@ -11,7 +11,6 @@ I am a mysterious code ninja 🥷 who has mastered the art of:
 ## My Superpowers 💪
 - **Git Commit Messages**: Writing commit messages that are more like cryptic puzzles. ("Fix issue" and "Oops" are my specialties)
 - **Stack Overflow Scavenger**: I can find the exact error message in under 30 seconds ⏱️. Usually followed by copying and pasting the top-voted answer.
-- **Infinite Loops**: I'm a master of creating loops that run forever, just because the computer deserves a little workout too! 🏋️‍♂️
 
 ## My Toolbox 🛠️
 - **Languages**: Java, Xquery, JQuery, JavaScript, PHP and Gibberish
