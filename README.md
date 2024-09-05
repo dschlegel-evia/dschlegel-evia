@@ -28,9 +28,6 @@ I am a mysterious code ninja 🥷 who has mastered the art of:
 - I believe semicolons are optional, but chaos is mandatory.
 - My spirit animal is a rubber duck because debugging is best done aloud.
 
-## My Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dschlegel-evia&show_icons=true&theme=radical)
-
 ## Connect with Me 🤝
 - If you found my code useful, you’re probably mistaken.
 - Feel free to reach out if you want to discuss programming, life, or the meaning of semicolons.
