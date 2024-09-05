@@ -29,7 +29,7 @@ I am a mysterious code ninja 🥷 who has mastered the art of:
 - My spirit animal is a rubber duck because debugging is best done aloud.
 
 ## My Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dschlegel-evia&show_icons=true&theme=radical)
 
 ## Connect with Me 🤝
 - If you found my code useful, you’re probably mistaken.
