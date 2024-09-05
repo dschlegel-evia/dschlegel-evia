@@ -22,12 +22,7 @@ I am a mysterious code ninja 🥷 who has mastered the art of:
 ## My Coding Philosophy 🧘
 - "Why write clean code today when you can refactor tomorrow?"
 - "If it works, don't touch it. If it doesn't work... well, that's future me's problem."
-
-## Fun Facts 🎉
-- I once wrote a "Hello World" script in 10 different languages just because I was bored.
-- I believe semicolons are optional, but chaos is mandatory.
-- My spirit animal is a rubber duck because debugging is best done aloud.
-
+  
 ## Connect with Me 🤝
 - If you found my code useful, you’re probably mistaken.
 - Feel free to reach out if you want to discuss programming, life, or the meaning of semicolons.
